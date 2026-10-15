@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hieu
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=1EF79A&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Hieu+%F0%9F%91%8B;Aspiring+DevOps+%26+Full-stack+Developer;From+code+to+production)](https://git.io/typing-svg)
 
 **Aspiring DevOps Engineer — Docker · CI/CD · Kubernetes · Cloudflare**
 
